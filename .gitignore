@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 .vscode
+
+# Big Data
+.dicom
+reference/
