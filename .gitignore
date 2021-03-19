@@ -132,4 +132,8 @@ dmypy.json
 
 # Big Data
 *.dicom
+*.png
+*.jpg
+*.jpeg
+*.txt
 reference/
